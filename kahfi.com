@@ -560,11 +560,11 @@
 <!-- ABOUT -->
 <section id="about">
   <div class="section-label">// 01_TENTANG</div>
-  <h2><span class="line"></span>Siapa Saya</h2>
+  <h2><span class="line"></span>Who Am I?</h2>
   <div class="about-grid reveal">
     <div class="about-text">
       <p>Saya <strong>Al Kahfi Putra Kurniawan</strong>, seorang pelajar berusia <strong>19 tahun</strong> yang berfokus pada bidang <strong>Cyber Security</strong>. Saya percaya bahwa di era digital ini, keamanan informasi adalah fondasi dari segalanya.</p>
-      <p>Minat saya mencakup <strong>penetration testing</strong>, <strong>network security</strong>, <strong>CTF (Capture The Flag)</strong>, dan analisis malware. Saya aktif belajar secara mandiri melalui platform seperti TryHackMe, HackTheBox, dan sumber terbuka lainnya.</p>
+      <p>Minat saya mencakup <strong>penetration testing</strong>, <strong>Network Security</strong>, <strong>CTF (Capture The Flag)</strong>, dan analisis malware. Saya aktif belajar secara mandiri melalui platform seperti TryHackMe, HackTheBox, dan sumber terbuka lainnya.</p>
       <p>Tujuan saya adalah berkontribusi dalam membangun ekosistem digital yang lebih aman di Indonesia dan dunia.</p>
     </div>
     <div class="about-stats">
